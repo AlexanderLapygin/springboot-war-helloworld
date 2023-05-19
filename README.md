@@ -4,7 +4,7 @@
     </a>
 </div> 
 
-# HelloWorld on Spring Boot
+# War HelloWorld on Spring Boot
 
 
 ## Feature tags
@@ -13,13 +13,13 @@
 - spring-boot
 - starter
 - template
+- war
 
 ---
 
 ## Direct descendant
 
-- [+ swagger](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
-- [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
+- [- war](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
 
 ---
 
@@ -37,9 +37,7 @@
 
 ## Run
 
-```sh
-mvnw spring-boot:run
-```
+TBD
 
 ### License
 
