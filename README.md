@@ -21,6 +21,11 @@
 
 [- war](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
 
+
+## Direct descendant
+
+[+ actuator,prometheus,war](https://github.com/AlexanderLapygin/springboot-war-prometheus#readme)
+
 ---
 
 ## Author
