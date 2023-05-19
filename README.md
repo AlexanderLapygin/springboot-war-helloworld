@@ -37,7 +37,16 @@
 
 ## Run
 
-TBD
+1) Build the WAR file by running the Maven command:
+
+```sh
+mvn clean package
+```
+2) Copy the resulting springboot-war-helloworld.war file to the <CATALINA_HOME>/webapps directory of your Tomcat server.
+
+3) Start the Tomcat server. You can start Tomcat by running the startup.sh script (for Unix) or startup.bat script (for Windows) in the <CATALINA_HOME>/bin directory.
+
+4) After Tomcat starts successfully, your application will be accessible at http://localhost:8080/springboot-war-helloworld/hello.
 
 ### License
 
