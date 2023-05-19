@@ -24,7 +24,7 @@
 
 ## Direct descendant
 
-[+ actuator,prometheus,war](https://github.com/AlexanderLapygin/springboot-war-prometheus#readme)
+[+ actuator,prometheus](https://github.com/AlexanderLapygin/springboot-war-prometheus#readme)
 
 ---
 
