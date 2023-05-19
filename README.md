@@ -17,9 +17,9 @@
 
 ---
 
-## Direct descendant
+## Direct ancestor
 
-- [- war](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
+[- war](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
 
 ---
 
