@@ -22,10 +22,10 @@
 [- war](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
 
 
-## Direct descendant
+## Direct descendants
 
-[+ actuator,prometheus](https://github.com/AlexanderLapygin/springboot-war-prometheus#readme)
-[+ gelf,logback](https://github.com/AlexanderLapygin/springboot-war-gelf-logback/tree/main#readme)
+- [+ actuator,prometheus](https://github.com/AlexanderLapygin/springboot-war-prometheus#readme)
+- [+ gelf,logback](https://github.com/AlexanderLapygin/springboot-war-gelf-logback/tree/main#readme)
 
 ---
 
