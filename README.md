@@ -25,6 +25,7 @@
 ## Direct descendant
 
 [+ actuator,prometheus](https://github.com/AlexanderLapygin/springboot-war-prometheus#readme)
+[+ gelf,logback](https://github.com/AlexanderLapygin/springboot-war-gelf-logback/tree/main#readme)
 
 ---
 
